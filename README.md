@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/llama-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Llama de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/llama-de-amor/) |
+| **Get License** | [Commercial Licensing for Llama de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/llama-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tú tienes la llama, quemando la noche en la ciudad
+> Una mirada tuya y el mundo pierde la gravedad
+> I want you closer, mami, apaga ya la celular
+> Conmigo el VIP se siente como un viaje al más allá
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
