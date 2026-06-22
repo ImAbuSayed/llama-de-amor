@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Llama de amor
+
+This log tracks the cryptographic history and versioning for the song **Llama de amor** (llama-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T22:58:14.497039 | `v1` | `000d9e0dbd95fb6813dc2ad6eae0a7a69a8a0d65b859ce8b6e410e3e35acd501` | `6cfc0e6f6358aac886939efa8f2c82d228cf34ebf5a4002105a9d7f4074140e8` | `2026-06-22_llama-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
